@@ -19,7 +19,7 @@ Aplikasi PeduliDiri Web adalah sebuah aplikasi berbasis web yang bertujuan untuk
 Terdapat 1 level untuk pengguna:
 - Level 1: User
 
-<h3>Preview Aplikasi Aplikasi Restoran Web</h3>
+<h3>Preview Aplikasi PeduliDiri-Web</h3>
 <p>Tampilan Login Aplikasi</p>
 <img src="https://github.com/MuhamadRifqiAshari/Aplikasi-PeduliDiri-Web/blob/main/dokumentasi/Login.png">
 
